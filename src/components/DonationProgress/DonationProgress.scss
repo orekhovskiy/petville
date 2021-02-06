@@ -1,0 +1,14 @@
+.MuiLinearProgress-dashed{
+    visibility: hidden;
+}
+
+.MuiLinearProgress-bar1Buffer{
+    border-radius: 20px;
+    background: rgb(39,174,96);
+    background: linear-gradient(90deg, rgba(39,174,96,1) 0%, rgba(153,207,3,1) 100%);
+}
+
+.MuiLinearProgress-bar2Buffer{
+    border-radius: 20px;
+    background: #dddddd;
+}
